@@ -5,3 +5,5 @@
 3. Leere Text-Datei "pushtest.txt" erstellt und mit "git add pushtest.txt", "git commit -m ", "git push" aktualisiert
 4. Text hinzugefügt, gespeichert und mit "git status", "git diff" überprüft
 5. Änderungen mit "git add", "git commit -m "Text hinzu"", "git push" aktualisiert
+6. Deleteme.txt hinzugefügt und mit "git rm Deleteme.txt" gelöscht
+
